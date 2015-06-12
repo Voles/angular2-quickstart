@@ -12,7 +12,7 @@ Angular 2 - Quickstart
 
 ## Run the example
 
-    $ tsc --watch -m commonjs -t es5 --emitDecoratorMetadata app.ts --out dist/js/app.js
+    $ tsc --watch -m commonjs -t es5 --emitDecoratorMetadata app.ts
     $ http-server
 
 Navigate to `http://localhost:8080/index.html`
