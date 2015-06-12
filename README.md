@@ -3,12 +3,8 @@ Angular 2 - Quickstart
 
 ## Installation
 
-    $ npm install -g tsd
-    $ tsd query angular2 --action install
-    $ tsd query es6-promise --action install
-    $ tsd query rx --action install
-    $ tsd query rx-lite --action install
-    $ npm install -g typescript@^1.5.0-beta http-server
+    $ npm install -g tsd typescript@^1.5.0-beta http-server
+    $ tsd query angular2 es6-promise rx rx-lite --action install
 
 ## Run the example
 
