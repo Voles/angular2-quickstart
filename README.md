@@ -1,5 +1,4 @@
-# angular2-quickstart
-Angular 2 - Quickstart
+# Angular 2 - Quickstart
 
 ## Installation
 
